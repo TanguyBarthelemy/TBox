@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# TBox: usefull toolbox with random programs
+# TBox: useful toolbox with random programs
 
 <!-- badges: start -->
 
@@ -17,7 +17,7 @@ coverage](https://codecov.io/gh/TanguyBarthelemy/TBox/branch/main/graph/badge.sv
 built](https://github.com/TanguyBarthelemy/TBox/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/TanguyBarthelemy/TBox/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
-The goal of **TBox** is to provide a tools to help developers and
+The goal of **TBox** is to provide tool to help developers and
 producers manipulate R objects and outputs.
 
 ## Installation
